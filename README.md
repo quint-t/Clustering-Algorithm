@@ -2,7 +2,7 @@
 C++ Qt. K-means and K-means++ clustering algorithms.
 
 Dependence (already available in the 'source' folder):
-[QCustomPlot](https://github.com/PTGF/QCustomPlot/blob/master/LICENSE).
+[QCustomPlot](https://github.com/PTGF/QCustomPlot/).
 
 ```
 $ qmake ClusterData.pro
