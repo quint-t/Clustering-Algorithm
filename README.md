@@ -1,11 +1,15 @@
 # clustering_algorithm
 C++ Qt. K-means and K-means++ clustering algorithms.
 
+Dependence (already available in the 'source' folder):
+[QCustomPlot](https://github.com/PTGF/QCustomPlot/blob/master/LICENSE).
+
 ```
 $ qmake ClusterData.pro
 $ make
 $ ./ClusterData
 ```
+
 <img src="https://github.com/quint-t/clustering_algorithm/blob/main/input.png" alt="input data" width="400">
 <img src="https://github.com/quint-t/clustering_algorithm/blob/main/output.png" alt="output data" width="400">
 
